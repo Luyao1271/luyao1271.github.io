@@ -2,7 +2,7 @@
 
 ### 点击上方按钮可查看个人项目
 
-### 技术交流请加我微信 ![Image](src)
+### 技术交流请加我微信 ![Image](luyao1271.github.io/微信图片_20190216143208.jpg)
 
 ### Markdown
 
@@ -23,6 +23,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](luyao1271.github.io/微信图片_20190216143208.jpg)
+[Link](url) and ![Image](src)
 ```
 
