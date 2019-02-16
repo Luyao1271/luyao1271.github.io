@@ -3,7 +3,7 @@
 ### 点击上方按钮可查看个人项目
 
 ### 技术交流请加我微信
-![Image](luyao1271.github.io/微信图片_20190216143208.jpg)
+![Image](luyao1271.github.io/images/weichatimg.jpg)
 
 ### Markdown
 
