@@ -23,6 +23,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](luyao1271.github.io/微信图片_20190216143208.jpg)
 ```
 
